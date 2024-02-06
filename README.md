@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ### 🔭 I’m currently working on:
 
-<details open>
+<details close>
   <summary>Python</summary>
   <ul>
     <li>Flask</li>
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   </ul>
 </details>
 
-<details open>
+<details close>
   <summary>C++</summary>
   <ul>
     <li>Arduino</li>
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   </ul>
 </details>
 
-<details open>
+<details close>
   <summary>JavaScript</summary>
   <ul>
     <li>ReactJS</li>
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   </ul>
 </details>
 
-<details open>
+<details close>
   <summary>DevOps</summary>
   <ul>
     <li>Docker</li>
