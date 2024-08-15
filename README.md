@@ -54,4 +54,4 @@ Here are some ideas to get you started:
   </ul>
 </details>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjJordy&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjJordy&hide=jupyter%20notebook,cmake)
